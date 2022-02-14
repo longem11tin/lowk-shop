@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24912884.css",
+    "main.js": "/static/js/main.d0a7d3a8.js",
+    "static/media/Canon-Kit.png": "/static/media/Canon-Kit.ddc86a14c8d4d2c7f1e3.png",
+    "static/media/LongLowK.png": "/static/media/LongLowK.457bea4f142b5443dec4.png",
+    "index.html": "/index.html",
+    "main.24912884.css.map": "/static/css/main.24912884.css.map",
+    "main.d0a7d3a8.js.map": "/static/js/main.d0a7d3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24912884.css",
+    "static/js/main.d0a7d3a8.js"
+  ]
+}
